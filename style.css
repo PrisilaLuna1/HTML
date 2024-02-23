@@ -14,3 +14,10 @@ p{
     font-size: 20px;
     color: rgb(0, 6, 37);
 }
+
+.main{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    background-color: rgb(255, 242, 201);
+}
