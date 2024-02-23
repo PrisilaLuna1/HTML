@@ -24,6 +24,7 @@ p{
 
 .barra{
     display: flex;
-    flex-direction: row;
-    width: 100%;
+    margin: 0;
+    margin-right: 20px;
+    flex-wrap: wrap;
 }
