@@ -9,6 +9,7 @@ a{
     text-decoration: none;
 }
 header ul{
+    color: brown;
     list-style: none;
     display: flex;
     flex-direction: row;
@@ -51,4 +52,8 @@ p{
 
 .box img{
     border-radius: 50%;
+}
+
+.box p{
+    font-size: 20px;
 }
