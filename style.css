@@ -9,16 +9,12 @@ a{
     text-decoration: none;
 }
 header ul{
+    list-style: none;
     display: flex;
     flex-direction: row;
 }
 header ul li{
     margin: 10px;
-}
-
-body{
-    width: 100%;
-    background-color: rgba(255, 255, 255, 0.726); 
 }
 
 img{
