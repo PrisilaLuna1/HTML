@@ -14,6 +14,7 @@ header ul{
     flex-direction: row;
 }
 header ul li{
+
     margin: 10px;
 }
 
@@ -45,4 +46,8 @@ p{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.box img{
+    border-radius: 50%;
 }
