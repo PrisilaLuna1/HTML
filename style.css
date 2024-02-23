@@ -9,7 +9,6 @@ a{
     text-decoration: none;
 }
 header ul{
-    color: brown;
     list-style: none;
     display: flex;
     flex-direction: row;
