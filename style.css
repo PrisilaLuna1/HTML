@@ -5,6 +5,9 @@ header{
     background-color: rgb(255, 255, 255);
     width: 100%;
 }
+header img{
+    height: 100px;
+}
 a{
     text-decoration: none;
 }
