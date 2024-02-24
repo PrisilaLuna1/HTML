@@ -4,7 +4,7 @@ header{
     flex-direction: row;
     justify-content:space-between;
     width: 100%;
-    background-color: rgb(255, 248, 224);
+    background-color: rgb(250, 248, 240);
 }
 a{
     text-decoration: none;
@@ -18,7 +18,7 @@ header ul li{
 
     margin: 10px;
     font-size: 27;
-    color: rgb(230, 156, 20);
+    color: rgb(252, 137, 70);
 }
 
 img{
