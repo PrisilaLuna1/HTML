@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 header{
     display: flex;
     flex-direction: row;
@@ -60,6 +61,22 @@ p{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+.presentacion{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.presentacion h1{
+    font-size: 35px;
+    color: rgb(9, 0, 90);
+}
+.presentacion p{
+    width: 70%;
+    font-size: 30px;
+    padding: 10px;
+    font-family: "Oswald", sans-serif;
 }
 
 .box img{
