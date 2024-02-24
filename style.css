@@ -71,6 +71,7 @@ p{
 .presentacion h1{
     font-size: 35px;
     color: rgb(9, 0, 90);
+    font-family: "Oswald", sans-serif;
 }
 .presentacion p{
     width: 70%;
