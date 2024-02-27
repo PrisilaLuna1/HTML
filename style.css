@@ -12,6 +12,7 @@ a{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 header ul{
+    font-size: 20px;
     list-style: none;
     display: flex;
     flex-direction: row;
@@ -70,12 +71,12 @@ p{
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: rgb(150, 212, 253);
 }
 .presentacion h1{
     font-size: 35px;
     color: rgb(9, 0, 90);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: rgb(150, 212, 253);
 }
 .presentacion p{
     width: 70%;
