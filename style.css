@@ -72,6 +72,7 @@ p{
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 10px 0 10px 0;
 }
 .presentacion h1{
     font-size: 35px;
@@ -102,7 +103,6 @@ footer {
 }
 
 .class carousel img { 
-    width: 50px;
-    height: 50px;
-
+    width: 100%;
+    border-radius: 5%;
 }
